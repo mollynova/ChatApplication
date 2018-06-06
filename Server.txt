@@ -1,0 +1,18 @@
+ID:SENDERServerID:RECIPgr1mmID:MSGInvalid credentials. Please try again or register.ID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGRegistration success! You are now logged in.ID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPgr1mmID:MSGSuccessfully logged in as gr1mmID:TYPE2
+ID:SENDERServerID:RECIPtestID:MSGSuccessfully logged in as testID:TYPE2
+ID:SENDERServerID:RECIPcheckID:MSGRegistration success! You are now logged in.ID:TYPE2

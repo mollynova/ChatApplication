@@ -1,0 +1,2 @@
+ID:SENDERUser2ID:RECIPgr1mmID:MSGother user sending private message to gr1mmID:TYPE2
+ID:SENDERgr1mmID:RECIPUser2ID:MSGgr1mm sending private message to other userID:TYPE1

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WebsSockets</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--// this div, chatControls, is the text box where you enter a message. the button id is "send"
+    // and the text field id is "message"-->
+    <div id="chatControls">
+        <input id="message" placeholder="Type your message">
+        <button id="send">Send</button>
+    </div>
+    <div id = login>
+        Login
+       <!-- // The input id lines are making text fields
+        // The button id lines are making buttons
+        // Each one gets its own user-defined id, so that in the .js file, it can
+        // refer specifically to the text in that field (like a variable name)-->
+        <input id="uSername" placeholder="Username">
+        <input id="password" placeholder="Password">
+        <button id="submit">Submit</button>
+
+        <div id ="reg">Register</div>
+            <input id="usernameREG" placeholder="Username">
+            <input id="passwordREG" placeholder="Password">
+        <button id="submitREG">Submit</button>
+        </div>
+    </div>
+    <ul id="userlist" role="menu"> <!-- Built by JS --> </ul>
+    <div id="chat">    <!-- Built by JS --> </div>
+    <script src="websocketDemo.js"></script>
+
+</body>
+</html>
+
+
+
