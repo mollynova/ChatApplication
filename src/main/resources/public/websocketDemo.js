@@ -66,8 +66,8 @@ function sendAndClearUser(uSername, password) {
         String(password);
         uSername = "ID:LOGIN" + uSername + "ID:PW" + password;
         ws.send(uSername);
-        id("uSername").value = "";
-        id("password").value = "";
+        //id("uSername").value = "";
+       // id("password").value = "";
     }
     id("uSername").value = "";
     id("password").value = "";
@@ -103,14 +103,8 @@ function updateChat(msg) { // Update chat-panel and list of connected users
 }
 
 function button(newuser) {
-    if (pm.equals(newuser)) {
-        pm = "";
-        flag = 0;
-        id("message").value = "";
-    } else {
-        String(newuser);
-        pm = newuser;
-        id("message").placeholder = "Sending private message to " + newuser;
-        flag = 1;
-    }
+    String(newuser);
+    pm = newuser;
+    id("message").placeholder = "Sending private message to " + newuser;
+    flag = 1;
 }
