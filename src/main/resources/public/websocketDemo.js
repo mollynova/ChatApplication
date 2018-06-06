@@ -105,6 +105,6 @@ function updateChat(msg) { // Update chat-panel and list of connected users
 function button(newuser) {
     String(newuser);
     pm = newuser;
-    id("message").placeholder = "Sending private message to " + newuser;
+   // id("message").placeholder = "Sending private message to " + newuser;
     flag = 1;
 }
